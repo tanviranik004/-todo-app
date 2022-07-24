@@ -1,0 +1,27 @@
+//Todo Apply 
+-html 
+-css 
+-js 
+  -setTimeout
+  -localStorage
+  -array
+  -mapping
+  -Dom manipulation
+  -event listeners
+
+
+step 1: Create the html basic structure 
+
+step 2: Style html elements
+
+step 3: Find all the html elements and add listeners  
+
+step 4: Add todo   
+
+step 5: ShowMessage  
+
+step 6: Adding To-dos in localStorage
+
+step 7: delete Todo 
+
+step 8: readd Todo 
